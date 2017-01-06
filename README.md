@@ -1,2 +1,2 @@
-# business_card
+# Andrija Terentic
 Business card
